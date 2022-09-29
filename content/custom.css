@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #4C4C4C !important;
+  background-color: #111827 !important;
   color: inherit;
 }
 
@@ -21,15 +21,15 @@ body {
 }
 
 .borderRight {
-  border-right: 1px solid #787878 !important;
+  border-right: 1px solid #FBFFD1 !important;
 }
 
 .logo {
-  display: none !important;
+  display: inherit !important;
 }
 
 .detailText {
-  color: #B3B3B3 !important;
+  color: #F78282 !important;
   background-color: inherit;
 }
 
@@ -38,7 +38,7 @@ body {
 }
 
 .thumbnail {
-  background-color: #949494 !important;
+  background-color: #2C363A !important;
   color: inherit;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .itemNumber {
-  color: #9C9C9C !important;
+  color: #C9C9C9 !important;
   display: inherit !important;
   background-color: inherit;
 }
@@ -62,22 +62,22 @@ body {
 }
 
 .borderTopLeft {
-  border-top: 1px solid #787878 !important;
-  border-left: 1px solid #787878 !important;
+  border-top: 1px solid #FBFFD1 !important;
+  border-left: 1px solid #FBFFD1 !important;
 }
 
 .selectedThumbnail, .thumbnail:hover {
-  background-color: #A1A1A1 !important;
+  background-color: #FFFFFF !important;
   color: inherit;
 }
 
 .borderRightDotted {
-  border-right: 1px dotted #787878 !important;
+  border-right: 1px dotted #FBFFD1 !important;
 }
 
 .borderBottomRight {
-  border-right: 1px solid #787878 !important;
-  border-bottom: 1px solid #787878 !important;
+  border-right: 1px solid #FBFFD1 !important;
+  border-bottom: 1px solid #FBFFD1 !important;
 }
 
 #wrapper_large {
@@ -85,12 +85,12 @@ body {
 }
 
 .emptyThumbnail {
-  background-color: #949494 !important;
+  background-color: #2C363A !important;
   color: inherit;
 }
 
 #previewImage {
-  maxSize: 512.00 !important;
+  maxSize: 1024.00 !important;
 }
 
 .paginationLinks, .pagination, #liveUpdatePagination {
@@ -104,7 +104,7 @@ body {
 }
 
 .borderBottom {
-  border-bottom: 1px solid #787878 !important;
+  border-bottom: 1px solid #FBFFD1 !important;
 }
 
 #stage {
@@ -112,6 +112,6 @@ body {
 }
 
 .textColor {
-  color: #B3B3B3 !important;
+  color: #DCA2B5 !important;
   background-color: inherit;
 }
